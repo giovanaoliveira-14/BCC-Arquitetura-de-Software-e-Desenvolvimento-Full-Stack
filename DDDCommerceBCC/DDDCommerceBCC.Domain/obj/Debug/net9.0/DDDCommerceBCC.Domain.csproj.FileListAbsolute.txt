@@ -1,0 +1,12 @@
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\DDDCommerceBCC\DDDCommerceBCC.Domain\bin\Debug\net9.0\DDDCommerceBCC.Domain.deps.json
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\DDDCommerceBCC\DDDCommerceBCC.Domain\bin\Debug\net9.0\DDDCommerceBCC.Domain.dll
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\DDDCommerceBCC\DDDCommerceBCC.Domain\bin\Debug\net9.0\DDDCommerceBCC.Domain.pdb
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\DDDCommerceBCC\DDDCommerceBCC.Domain\obj\Debug\net9.0\DDDCommerceBCC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\DDDCommerceBCC\DDDCommerceBCC.Domain\obj\Debug\net9.0\DDDCommerceBCC.Domain.AssemblyInfoInputs.cache
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\DDDCommerceBCC\DDDCommerceBCC.Domain\obj\Debug\net9.0\DDDCommerceBCC.Domain.AssemblyInfo.cs
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\DDDCommerceBCC\DDDCommerceBCC.Domain\obj\Debug\net9.0\DDDCommerceBCC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\DDDCommerceBCC\DDDCommerceBCC.Domain\obj\Debug\net9.0\DDDCommerceBCC.Domain.sourcelink.json
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\DDDCommerceBCC\DDDCommerceBCC.Domain\obj\Debug\net9.0\DDDCommerceBCC.Domain.dll
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\DDDCommerceBCC\DDDCommerceBCC.Domain\obj\Debug\net9.0\refint\DDDCommerceBCC.Domain.dll
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\DDDCommerceBCC\DDDCommerceBCC.Domain\obj\Debug\net9.0\DDDCommerceBCC.Domain.pdb
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\DDDCommerceBCC\DDDCommerceBCC.Domain\obj\Debug\net9.0\ref\DDDCommerceBCC.Domain.dll
