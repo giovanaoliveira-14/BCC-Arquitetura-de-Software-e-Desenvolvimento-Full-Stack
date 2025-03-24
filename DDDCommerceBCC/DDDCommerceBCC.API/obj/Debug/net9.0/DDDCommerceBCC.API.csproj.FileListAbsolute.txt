@@ -1,0 +1,8 @@
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\DDDCommerceBCC\DDDCommerceBCC.API\obj\Debug\net9.0\DDDCommerceBCC.API.csproj.AssemblyReference.cache
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\DDDCommerceBCC\DDDCommerceBCC.API\obj\Debug\net9.0\DDDCommerceBCC.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\DDDCommerceBCC\DDDCommerceBCC.API\obj\Debug\net9.0\DDDCommerceBCC.API.AssemblyInfoInputs.cache
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\DDDCommerceBCC\DDDCommerceBCC.API\obj\Debug\net9.0\DDDCommerceBCC.API.AssemblyInfo.cs
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\DDDCommerceBCC\DDDCommerceBCC.API\obj\Debug\net9.0\DDDCommerceBCC.API.csproj.CoreCompileInputs.cache
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\DDDCommerceBCC\DDDCommerceBCC.API\obj\Debug\net9.0\DDDCommerceBCC.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\DDDCommerceBCC\DDDCommerceBCC.API\obj\Debug\net9.0\DDDCommerceBCC.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\DDDCommerceBCC\DDDCommerceBCC.API\obj\Debug\net9.0\DDDCommerceBCC.API.sourcelink.json
