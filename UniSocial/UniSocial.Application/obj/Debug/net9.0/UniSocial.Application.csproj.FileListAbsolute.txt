@@ -1,0 +1,16 @@
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Application\bin\Debug\net9.0\UniSocial.Application.deps.json
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Application\bin\Debug\net9.0\UniSocial.Application.dll
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Application\bin\Debug\net9.0\UniSocial.Application.pdb
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Application\bin\Debug\net9.0\UniSocial.Domain.dll
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Application\bin\Debug\net9.0\UniSocial.Domain.pdb
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Application\obj\Debug\net9.0\UniSocial.Application.csproj.AssemblyReference.cache
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Application\obj\Debug\net9.0\UniSocial.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Application\obj\Debug\net9.0\UniSocial.Application.AssemblyInfoInputs.cache
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Application\obj\Debug\net9.0\UniSocial.Application.AssemblyInfo.cs
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Application\obj\Debug\net9.0\UniSocial.Application.csproj.CoreCompileInputs.cache
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Application\obj\Debug\net9.0\UniSocial.Application.sourcelink.json
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Application\obj\Debug\net9.0\UniSocia.5BBF4F4F.Up2Date
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Application\obj\Debug\net9.0\UniSocial.Application.dll
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Application\obj\Debug\net9.0\refint\UniSocial.Application.dll
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Application\obj\Debug\net9.0\UniSocial.Application.pdb
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Application\obj\Debug\net9.0\ref\UniSocial.Application.dll

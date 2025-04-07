@@ -1,0 +1,12 @@
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Domain\bin\Debug\net9.0\UniSocial.Domain.deps.json
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Domain\bin\Debug\net9.0\UniSocial.Domain.dll
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Domain\bin\Debug\net9.0\UniSocial.Domain.pdb
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Domain\obj\Debug\net9.0\UniSocial.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Domain\obj\Debug\net9.0\UniSocial.Domain.AssemblyInfoInputs.cache
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Domain\obj\Debug\net9.0\UniSocial.Domain.AssemblyInfo.cs
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Domain\obj\Debug\net9.0\UniSocial.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Domain\obj\Debug\net9.0\UniSocial.Domain.sourcelink.json
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Domain\obj\Debug\net9.0\UniSocial.Domain.dll
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Domain\obj\Debug\net9.0\refint\UniSocial.Domain.dll
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Domain\obj\Debug\net9.0\UniSocial.Domain.pdb
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\UniSocial\UniSocial.Domain\obj\Debug\net9.0\ref\UniSocial.Domain.dll
