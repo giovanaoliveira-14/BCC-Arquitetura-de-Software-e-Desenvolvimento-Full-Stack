@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DDDCommerceBCC.API")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("UniSocial.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b8dda1d0adcfc4462378bf7604726a380810536")]
-[assembly: System.Reflection.AssemblyProductAttribute("DDDCommerceBCC.API")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DDDCommerceBCC.API")]
+[assembly: System.Reflection.AssemblyProductAttribute("UniSocial.Application")]
+[assembly: System.Reflection.AssemblyTitleAttribute("UniSocial.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
