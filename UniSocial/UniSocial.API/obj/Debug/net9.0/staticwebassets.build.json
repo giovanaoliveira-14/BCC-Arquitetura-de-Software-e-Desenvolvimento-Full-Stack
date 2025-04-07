@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "3AmXPN4eBg2TAZ7qIXie8Brt61j9DstKPOthOiSfCx4=",
+  "Source": "UniSocial.API",
+  "BasePath": "_content/UniSocial.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
