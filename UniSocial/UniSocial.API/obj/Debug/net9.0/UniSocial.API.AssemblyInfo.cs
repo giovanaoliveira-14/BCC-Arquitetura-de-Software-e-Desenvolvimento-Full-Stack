@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UniSocial.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b8dda1d0adcfc4462378bf7604726a380810536")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4fc375b1d3424a55f5b2ae322654b6e56cf9a32")]
 [assembly: System.Reflection.AssemblyProductAttribute("UniSocial.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UniSocial.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

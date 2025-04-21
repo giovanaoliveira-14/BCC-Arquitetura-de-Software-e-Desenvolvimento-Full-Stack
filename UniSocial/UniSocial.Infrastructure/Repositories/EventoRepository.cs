@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using UniSocial.Domain.Entities;
 using UniSocial.Domain.Interfaces;
-using UniSocial.Infrastructure.Data;
+using UniSocial.Infrastructure.Context;  
 
 namespace UniSocial.Infrastructure.Repositories;
 
@@ -41,4 +41,11 @@ public class EventoRepository : IEventoRepository
             await _context.SaveChangesAsync();
         }
     }
+
+    public async Task SalvarAsync(Evento evento)
+{
+    _context.Eventos.Update(evento);
+    await _context.SaveChangesAsync();
+}
+
 }

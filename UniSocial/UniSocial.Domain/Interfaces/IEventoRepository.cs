@@ -7,5 +7,5 @@ public interface IEventoRepository
     Task<Evento?> GetByIdAsync(int id);
     Task<List<Evento>> GetAllAsync();
     Task AddAsync(Evento evento);
-    Task InscreverUsuarioAsync(int eventoId, int usuarioId);
+    Task SalvarAsync(Evento evento); 
 }
