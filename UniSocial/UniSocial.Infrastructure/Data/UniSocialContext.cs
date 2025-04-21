@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using UniSocial.Domain.Entities;
 
-namespace UniSocial.Infrastructure.Data
+namespace UniSocial.Infrastructure.Context
 {
     public class UniSocialContext : DbContext
     {
@@ -12,24 +12,22 @@ namespace UniSocial.Infrastructure.Data
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Postagem> Postagens { get; set; }
         public DbSet<Evento> Eventos { get; set; }
-        public DbSet<Curtida> Curtidas { get; set; }       // <-- ADICIONA ESSA LINHA
-        public DbSet<Comentario> Comentarios { get; set; } // <-- E ESSA TAMBÉM
+        public DbSet<Curtida> Curtidas { get; set; }
+        public DbSet<Comentario> Comentarios { get; set; }
+        public DbSet<Bloqueio> Bloqueios { get; set; }  
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
 
-            // Relacionamento de seguidores (auto-relacionamento muitos-para-muitos)
             modelBuilder.Entity<Usuario>()
                 .HasMany(u => u.Seguidores)
                 .WithMany()
                 .UsingEntity(j => j.ToTable("UsuarioSeguidores"));
 
-            // Curtidas
             modelBuilder.Entity<Curtida>()
                 .HasKey(c => c.Id);
 
-            // Comentários
             modelBuilder.Entity<Comentario>()
                 .HasKey(c => c.Id);
         }

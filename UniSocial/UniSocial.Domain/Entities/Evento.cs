@@ -10,4 +10,5 @@ public class Evento
     public bool ExigeInscricao { get; set; }
 
     public List<Usuario> Inscritos { get; set; } = new();
+    public List<Usuario> Participantes { get; set; } = new List<Usuario>();
 }

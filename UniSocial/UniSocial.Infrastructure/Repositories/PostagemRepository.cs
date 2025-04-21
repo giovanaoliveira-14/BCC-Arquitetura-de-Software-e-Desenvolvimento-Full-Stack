@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using UniSocial.Domain.Entities;
 using UniSocial.Domain.Interfaces;
-using UniSocial.Infrastructure.Data;
+using UniSocial.Infrastructure.Context;  
 
 namespace UniSocial.Infrastructure.Repositories;
 

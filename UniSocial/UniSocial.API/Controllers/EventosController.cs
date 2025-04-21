@@ -35,10 +35,15 @@ public class EventoController : ControllerBase
         return CreatedAtAction(nameof(GetById), new { id = evento.Id }, evento);
     }
 
-    [HttpPost("{id}/inscrever")]
-    public async Task<IActionResult> Inscrever(int id, [FromQuery] int usuarioId)
-    {
-        await _service.InscreverUsuarioAsync(id, usuarioId);
-        return Ok();
-    }
+  [HttpPost("{id}/inscrever")]
+public async Task<IActionResult> Inscrever(int id, [FromQuery] int usuarioId)
+{
+    var result = await _service.InscreverUsuarioAsync(id, usuarioId);
+
+    if (!result.IsSuccess)
+        return BadRequest(result.Error);
+
+    return Ok("Inscrição realizada com sucesso.");
+}
+
 }

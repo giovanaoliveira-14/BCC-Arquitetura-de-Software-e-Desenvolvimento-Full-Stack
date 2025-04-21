@@ -4,7 +4,8 @@ using UniSocial.Application.Interfaces;
 using UniSocial.Application.Services;
 using UniSocial.Infrastructure.Repositories;
 using UniSocial.Domain.Interfaces;
-using UniSocial.Infrastructure.Data;
+using UniSocial.Domain.Services;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -31,6 +32,13 @@ builder.Services.AddScoped<IPostagemRepository, PostagemRepository>();
 
 builder.Services.AddScoped<IEventoService, EventoService>();
 builder.Services.AddScoped<IEventoRepository, EventoRepository>();
+
+builder.Services.AddScoped<IBloqueioRepository, BloqueioRepository>();
+
+builder.Services.AddScoped<EventoPolicyService>();
+builder.Services.AddScoped<IBloqueioRepository, BloqueioRepository>();
+
+
 
 var app = builder.Build();
 

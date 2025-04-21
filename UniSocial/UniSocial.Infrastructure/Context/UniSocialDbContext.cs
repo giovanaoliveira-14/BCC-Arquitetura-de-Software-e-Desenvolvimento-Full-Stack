@@ -10,5 +10,7 @@ namespace UniSocial.Infrastructure.Context
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Postagem> Postagens { get; set; }
         public DbSet<Evento> Eventos { get; set; }
+        public DbSet<Bloqueio> Bloqueios { get; set; }
+
     }
 }
