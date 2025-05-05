@@ -1,0 +1,8 @@
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\MessageReceiverAPI\obj\Debug\net9.0\MessageReceiverAPI.csproj.AssemblyReference.cache
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\MessageReceiverAPI\obj\Debug\net9.0\MessageReceiverAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\MessageReceiverAPI\obj\Debug\net9.0\MessageReceiverAPI.AssemblyInfoInputs.cache
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\MessageReceiverAPI\obj\Debug\net9.0\MessageReceiverAPI.AssemblyInfo.cs
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\MessageReceiverAPI\obj\Debug\net9.0\MessageReceiverAPI.csproj.CoreCompileInputs.cache
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\MessageReceiverAPI\obj\Debug\net9.0\MessageReceiverAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\MessageReceiverAPI\obj\Debug\net9.0\MessageReceiverAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gi\Documents\Github\BCC-Arquitetura-de-Software-e-Desenvolvimento-Full-Stack\MessageReceiverAPI\obj\Debug\net9.0\MessageReceiverAPI.sourcelink.json
