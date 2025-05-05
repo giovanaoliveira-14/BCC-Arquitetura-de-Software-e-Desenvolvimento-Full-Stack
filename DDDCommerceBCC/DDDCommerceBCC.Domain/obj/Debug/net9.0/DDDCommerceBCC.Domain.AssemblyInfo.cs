@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DDDCommerceBCC.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4fc375b1d3424a55f5b2ae322654b6e56cf9a32")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a86fbee6fead5bebbb7f47d04b8d0fbd2b4a667")]
 [assembly: System.Reflection.AssemblyProductAttribute("DDDCommerceBCC.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DDDCommerceBCC.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
